@@ -1,0 +1,294 @@
+/* ===== 导航栏 ===== */
+.nav {
+    display: flex;
+    justify-content: center;    /* 主要标签整体居中 */
+    align-items: center;
+    position: relative;         /* 为语言标签绝对定位提供参照 */
+    flex-wrap: wrap;           /* 窄屏时换行 */
+}
+
+/* 所有导航标签（主要标签） */
+.nav span:not(.lang-toggle) {
+    cursor: pointer;
+    width: 70px;
+    text-align: center;
+    flex-shrink: 0;
+    margin-right: 50px;
+}
+/* 最后一个主要标签去掉右边距 */
+.nav span:not(.lang-toggle):last-of-type {
+    margin-right: 0;
+}
+
+/* 语言切换标签：绝对定位在右侧 */
+.nav .lang-toggle {
+    cursor: pointer;
+    width: 70px;
+    text-align: center;
+    flex-shrink: 0;
+    position: absolute;
+    right: 0;
+}
+
+
+/* ===== 内容容器：响应式边距 ===== */
+#contentContainer {
+    padding-left: clamp(20px, 23vw, 500px);   /* 小屏20px，大屏150px，vw为边距放大倍数 */
+    padding-right: clamp(20px, 23vw, 500px);  /* 小屏20px，大屏150px */
+    max-width: 1400px;                         /* 限制最大宽度，避免过度拉伸 */
+    margin: 0 auto;                           /* 居中 */
+    box-sizing: border-box;
+    width: 100%;
+}
+
+
+/* 标题和段落使用相对单位 */
+#contentContainer h1 {
+    font-size: clamp(1.8rem, 5vw, 3rem);  /* 最小1.8rem，最大3rem */
+}
+
+#contentContainer p {
+    font-size: clamp(0.8rem, 1.1vw, 1rem);
+    line-height: 1.6;
+}
+
+
+/* ===== 照片墙网格布局（通用1-圆角正方形-项目选择） ===== */
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.photo-grid img {
+    width: 100% !important;
+    height: auto !important;
+    aspect-ratio: 1 / 1 !important;   /* 强制形状 */
+    object-fit: cover !important;
+    border-radius: 8px;
+}
+
+
+/* ===== 照片墙网格布局（通用2-无圆角垂直长方形） ===== */
+.photo-grid2 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.photo-grid2 img {
+    width: 100% !important;
+    height: auto !important;
+    aspect-ratio: 2 / 3 !important;   /* 强制形状 */
+    object-fit: cover !important;
+}
+
+
+/* ===== 照片墙网格布局（通用3-无圆角正方形） ===== */
+.photo-grid3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.photo-grid3 img {
+    width: 100% !important;
+    height: auto !important;
+    aspect-ratio: 1 / 1 !important;   /* 强制形状 */
+    object-fit: cover !important;
+}
+
+
+/* ===== 照片墙网格布局（通用4-无圆角平行长方形） ===== */
+.photo-grid4 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.photo-grid4 img {
+    width: 100% !important;
+    height: auto !important;
+    aspect-ratio: 3 / 2 !important;   /* 强制形状 */
+    object-fit: cover !important;
+}
+
+
+/* ===== 照片墙网格布局（通用5-无圆角正方形*2） ===== */
+.photo-grid5 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.photo-grid5 img {
+    width: 100% !important;
+    height: auto !important;
+    aspect-ratio: 1 / 1 !important;   /* 强制形状 */
+    object-fit: cover !important;
+}
+
+
+/* ===== 悬停放大 + 文字效果（只应用于 .hover-zoom 容器） ===== */
+.hover-zoom {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.hover-zoom img {
+    display: block;
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    transition: transform 0.2s ease;
+    border-radius: 8px;
+}
+
+.hover-zoom:hover img {
+    transform: scale(1.03);
+}
+
+/* 文字覆盖层（使用伪元素） */
+.hover-zoom::after {
+    content: attr(data-text);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    opacity: 0;
+    transition: opacity 0.2s ease;
+    pointer-events: none;
+    white-space: normal;
+    max-width: 100%;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.hover-zoom:hover::after {
+    opacity: 1;
+}
+
+
+/* === 阻止换行 === */
+.no-wrap {
+    white-space: nowrap;
+}
+
+
+/* ===== 项目导航页色块（文字始终显示，无背景，悬停整体放大） ===== */
+.color-grid {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 20px !important;
+    margin: 20px auto 0 !important;
+    justify-content: center !important;
+    max-width: 100% !important;
+}
+
+.color-item {
+    width: calc(33.333% - 20px) !important;   /* 3列，减去 gap */
+    aspect-ratio: 1 / 1 !important;
+    border-radius: 10px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    background-color: #cccccc;
+}
+
+.color-item:hover {
+    transform: scale(1.03);
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.18);
+    z-index: 2;
+}
+
+.color-item::after {
+    content: attr(data-text);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+    font-size: 0.9rem;
+    font-weight: 500;
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.9);
+    pointer-events: none;
+    padding: 0 12px;
+}
+
+
+/* ===== 图片全屏灯箱 ===== */
+.lightbox-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.92);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    cursor: pointer;
+    animation: fadeIn 0.3s ease;
+}
+
+.lightbox-overlay img {
+    max-width: 90vw;
+    max-height: 90vh;
+    object-fit: contain;
+    border-radius: 4px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+
+/* ===== 性能优化 ===== */
+.hover-zoom,
+.color-item,
+.photo-grid img,
+.photo-grid2 img,
+.photo-grid3 img,
+.photo-grid4 img,
+.image-link {
+    will-change: transform;
+}
+
+#contentContainer {
+    will-change: scroll-position;
+}
+
+
+/* 将 EXHIBITECHS 页面的背景设为黑色 */
+#EXHIBITECHS {
+    background-color: #000;
+    color: #fff;
+    /* 让背景铺满内容区，即使有父容器 padding 也能撑开 */
+    margin-left: calc(-1 * clamp(20px, 10vw, 150px));
+    margin-right: calc(-1 * clamp(20px, 10vw, 150px));
+    padding-left: clamp(20px, 10vw, 150px);
+    padding-right: clamp(20px, 10vw, 150px);
+}
+
+
+#contentContainer p {
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+}

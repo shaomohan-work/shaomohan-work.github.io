@@ -1,0 +1,60 @@
+{
+      "id": "Wound",
+      "nav": false,
+      "title_zh": "隐形的伤口",
+      "title_en": "Unseen Wound",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/1.jpg\" alt=\"隐形的伤口\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<h2>隐形的伤口</h2>",
+        "<p>地窖画廊，伦敦，2023</p>",
+        "<br>",
+
+        "<div class=\"photo-grid4\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/2.jpg\" alt=\"隐形的伤口\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/3.jpg\" alt=\"隐形的伤口\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/4.jpg\" alt=\"隐形的伤口\">",
+        "</div>",
+
+        "<div class=\"photo-grid2\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/5.jpg\" alt=\"隐形的伤口\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/8.jpg\" alt=\"隐形的伤口\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/9.jpg\" alt=\"隐形的伤口\">",
+        "</div>",
+
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/1.jpg\" alt=\"Unseen Wound\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<h2>Unseen Wound</h2>",
+        "<p>Crypt Gallery, London, 2023</p>",
+        "<br>",
+
+        "<div class=\"photo-grid4\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/2.jpg\" alt=\"Unseen Wound\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/3.jpg\" alt=\"Unseen Wound\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/4.jpg\" alt=\"Unseen Wound\">",
+        "</div>",
+
+        "<div class=\"photo-grid2\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/5.jpg\" alt=\"Unseen Wound\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/8.jpg\" alt=\"Unseen Wound\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/9.jpg\" alt=\"Unseen Wound\">",
+        "</div>",
+
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

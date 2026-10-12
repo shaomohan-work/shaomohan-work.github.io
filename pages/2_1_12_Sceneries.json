@@ -1,0 +1,53 @@
+{
+      "id": "Sceneries",
+      "nav": false,
+      "title_zh": "徐州八景",
+      "title_en": "Eight Sceneries",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_12_Sceneries/5.jpg\" alt=\"徐州八景\" style=\"max-width:100%;\">",
+       
+        "<br>",
+        "<br>",
+        "<h2>徐州八景</h2>",
+        "<p>徐州艺术馆，徐州，2025</p>",
+        "<p>“八景”者，取数处景物并列而称，一览地方之美也。八景是山水形胜，是福地洞天，是政治工程，也是公共空间。人通过八景探索自然，访问历史，拓展自身，连结他人。展览“徐州八景”与地方艺术家以及全市中小学合作，以徐州地区代表性的风景为线索探访城市文脉，串联起不同代际、不同视角的地方艺术实践。</p>",
+
+        "<p><a href=\"resources/2_0_projects/2_1_0_curating/2_1_12_Sceneries/前言.pdf\" target=\"_blank\">展览前言：黄河古道与徐州八景</a></p>",
+        "<br>",
+
+        "<div class=\"photo-grid4\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_12_Sceneries/1.jpg\" alt=\"徐州八景\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_12_Sceneries/2.jpg\" alt=\"徐州八景\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_12_Sceneries/6.jpg\" alt=\"徐州八景\">",
+        "</div>",
+        
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_12_Sceneries/5.jpg\" alt=\"Eight Sceneries\" style=\"max-width:100%;\">",
+       
+        "<br>",
+        "<br>",
+        "<h2>Eight Sceneries</h2>",
+        "<p>Xuzhou Art Museum, Xuzhou, 2025</p>",
+        "<p>In Chinese tradition, people like naming a certain number (often 8) of sceneries to epitomise the impress of a locality, which usually include geographic landscapes, cultural remains, municipal facilities and public spaces. By visiting these sceneries, one can explore natural beauties, dive into history and humanity spirit, and enhance connections with others and community. Focusing on various iconic scenes of Xuzhou area, the exhibition 'Eight Iconic Sceneries of Xuzhou', in collaboration with local artists and primary and middle schools, visits the urban context through art practices from different generations and perspectives.</p>",
+        "<p><a href=\"resources/2_0_projects/2_1_0_curating/2_1_12_Sceneries/前言.pdf\" target=\"_blank\">Foreword: The Wasted Yellow River and the Eight Seneries of Xuzhou</a></p>",
+        "<br>",
+        
+        "<div class=\"photo-grid4\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_12_Sceneries/1.jpg\" alt=\"Eight Sceneries\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_12_Sceneries/2.jpg\" alt=\"Eight Sceneries\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_12_Sceneries/6.jpg\" alt=\"Eight Sceneries\">",
+        "</div>",
+        
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

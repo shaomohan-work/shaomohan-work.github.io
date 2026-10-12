@@ -1,0 +1,52 @@
+{
+    "id": "profile",
+    "nav": true,
+    "title_zh": "简介",
+    "title_en": "PROFILE",
+    "content_zh": 
+      [
+        "<h1>邵沫晗</h1>",
+        "<br>",
+        "<img src=\"resources/1_profile/2-crop.jpg\" alt=\"示例图片\" style=\"max-width:100%;\">",
+        "<br>",
+        "<br>",
+        "<p>策展人、艺术技工，关注作为具身经验的“手工技能”及其关联的技术史、物质文化与基础设施网络。</p>",
+        "<p>围绕艺术、技术、工业、地方之间的互文进行策划、写作与制造。面向文化场景和城市空间生产展览与公教内容。为创意项目提供展陈设计、布展落地、机电控制、交互体验、新媒体展演等方面的技术支持。参与的项目在中国美术馆、德国驻上海总领事馆文化教育处、广东时代美术馆、斯德哥尔摩中国艺术中心、Camden Art Centre、Gasworks、Saatchi Gallery等机构呈现。</p>",
+        "<br>",
+        "<p><u>工作经历</u></p>",
+        "<p>2025 “长征计划”研究员</p>",
+        "<p>2024至今 徐州艺术馆7号艺术沙龙策展人</p>",
+        "<p>2022-2024 独立艺术技工</p>",
+        "<br>",
+        "<p><u>教育经历</u></p>",
+        "<p>皇家艺术学院 当代艺术策展</p>",
+        "<p>中央美术学院 实验艺术</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+    ],
+    "content_en":
+    [
+        "<h1>MOHAN SHAO</h1>",
+        "<br>",
+        "<img src=\"resources/1_profile/2-crop.jpg\" alt=\"Sample image\" style=\"max-width:100%;\">",
+        "<br>",
+        "<br>",
+        "<p>Curator & technician, interested in 'manual skills' as embodied experience, and their connections to the history of technology, material culture and infrastructure networks.</p>",
+        "<p>Curating, writing and fabricating around the interplay between art, technology, the industrial and the local. Producing exhibition and public programme for cultural settings and urban spaces. Supporting creative projects in exhibition installation, electromechanical control, interaction design and multimedia experience. Involved in projects realised at the National Art Museum of China, Consulate General of the Federal Republic of Germany in Shanghai, Guangdong Times Museum, China Cultural Centre in Stockholm, Camden Art Centre, Gasworks, Saatchi Gallery and other institutions.</p>",
+        "<br>",
+        "<p><u>WORK EXPERIENCE</u></p>",
+        "<p>2025, Researcher of 'Long March Project'</p>",
+        "<p>Since 2024, Curator of No. 7 Art Salon at Xuzhou Art Museum</p>",
+        "<p>2022-2024, Freelance technician</p>",
+        "<br>",
+        "<p><u>EDUCATION</u></p>",
+        "<p>MA Curating Contemporary Art, Royal College of Art</p>",
+        "<p>BA Experimental Art, Central Academy of Fine Arts</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+    ]
+}

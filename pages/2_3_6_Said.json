@@ -1,0 +1,32 @@
+{
+      "id": "Said",
+      "nav": false,
+      "title_zh": "据说……",
+      "title_en": "It Is Said That...",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_6_Said/1.jpg\" alt=\"据说……\" style=\"max-width:100%;\">",
+
+        "<br>",
+        "<br>",
+        "<h2>据说……</h2>",
+        "<p>赛格画廊，伦敦，2023</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_6_Said/1.jpg\" alt=\"It Is Said That...\" style=\"max-width:100%;\">",
+
+        "<br>",
+        "<br>",
+        "<h2>It Is Said That...</h2>",
+        "<p>Seager Gallery, London, 2023</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>邵沫晗 MOHAN SHAO</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="nav" id="navContainer"></div>
+    <br>
+    <br>
+    <br>
+    <div id="contentContainer"></div>
+
+    <script>
+        let pagesData = [];
+        let currentLang = localStorage.getItem('lang') || 'zh';
+        let currentPageId = '';
+        const navElements = [];
+        const contentElements = [];
+        let langToggleSpan = null;
+
+        // ===== 加载清单，然后加载所有页面数据 =====
+        fetch('pages/0_manifest.json')
+            .then(res => {
+                if (!res.ok) throw new Error('清单文件加载失败');
+                return res.json();
+            })
+            .then(manifest => {
+                // 并行加载所有独立的页面 JSON 文件
+                const fetchPromises = manifest.map(item =>
+                    fetch(`pages/${item.file}`)
+                        .then(res => {
+                            if (!res.ok) throw new Error(`加载 ${item.file} 失败`);
+                            return res.json();
+                        })
+                        .then(pageData => {
+                            // 将清单中的 id 和 nav 合并到页面数据中
+                            return {
+                                id: item.id,
+                                nav: item.nav,
+                                ...pageData
+                            };
+                        })
+                );
+                return Promise.all(fetchPromises);
+            })
+            .then(data => {
+                pagesData = data;
+                if (!pagesData || pagesData.length === 0) return;
+
+                // 从 URL hash 恢复页面
+                const hash = window.location.hash.slice(1);
+                const targetPage = pagesData.find(p => p.id === hash);
+                currentPageId = targetPage ? targetPage.id : pagesData[0].id;
+
+                renderAll();
+                // 确保 hash 与当前页面一致
+                if (window.location.hash !== '#' + currentPageId) {
+                    window.location.hash = currentPageId;
+                }
+            })
+            .catch(error => {
+                console.error('加载失败:', error);
+                document.body.innerHTML = `
+                    <p style="color:red; text-align:center; margin-top:50px;">
+                        无法加载页面数据，请检查 <strong>pages/</strong> 目录下的 manifest.json 和独立页面文件。
+                    </p>
+                `;
+            });
+
+        // ===== 切换内容（不改变 hash） =====
+        function switchPage(id) {
+            if (id === currentPageId) return;
+            contentElements.forEach(div => { div.hidden = true; });
+            const target = document.getElementById(id);
+            if (target) target.hidden = false;
+            currentPageId = id;
+        }
+
+        // ===== 对外跳转函数（更新 hash） =====
+        function showPage(id) {
+            if (id === currentPageId) return;
+            switchPage(id);
+            if (window.location.hash !== '#' + id) {
+                window.location.hash = id;
+            }
+        }
+
+        // 确保函数全局可访问（供 onclick 调用）
+        window.showPage = showPage;
+
+        // ===== 监听浏览器后退/前进 =====
+        window.addEventListener('hashchange', function() {
+            const hash = window.location.hash.slice(1);
+            if (!hash || hash === currentPageId) return;
+            const page = pagesData.find(p => p.id === hash);
+            if (page) {
+                switchPage(hash);
+            }
+        });
+
+        // ===== 渲染所有内容 =====
+        function renderAll() {
+            const navContainer = document.getElementById('navContainer');
+            const contentContainer = document.getElementById('contentContainer');
+            navContainer.innerHTML = '';
+            contentContainer.innerHTML = '';
+            navElements.length = 0;
+            contentElements.length = 0;
+
+            // 筛选导航页面（nav === true）
+            const navPages = pagesData.filter(page => page.nav !== false);
+
+            // 生成导航标签
+            navPages.forEach((page) => {
+                const span = document.createElement('span');
+                span.textContent = page[`title_${currentLang}`];
+                span.onclick = () => showPage(page.id);
+                navContainer.appendChild(span);
+                navElements.push(span);
+            });
+
+            // 生成所有内容 div（包括隐藏页面）
+            pagesData.forEach((page) => {
+                const div = document.createElement('div');
+                div.id = page.id;
+                div.innerHTML = page[`content_${currentLang}`].join('');
+                if (page.id !== currentPageId) {
+                    div.hidden = true;
+                }
+                contentContainer.appendChild(div);
+                contentElements.push(div);
+            });
+
+            // 生成语言切换标签
+            langToggleSpan = document.createElement('span');
+            langToggleSpan.className = 'lang-toggle';
+            langToggleSpan.textContent = currentLang === 'zh' ? 'En' : '中';
+            langToggleSpan.onclick = toggleLanguage;
+            navContainer.appendChild(langToggleSpan);
+        }
+
+        // ===== 切换语言 =====
+        function toggleLanguage() {
+            currentLang = currentLang === 'zh' ? 'en' : 'zh';
+            localStorage.setItem('lang', currentLang);
+
+            const navPages = pagesData.filter(page => page.nav !== false);
+            navElements.forEach((span, index) => {
+                span.textContent = navPages[index][`title_${currentLang}`];
+            });
+
+            contentElements.forEach((div, index) => {
+                const page = pagesData[index];
+                div.innerHTML = page[`content_${currentLang}`].join('');
+            });
+
+            langToggleSpan.textContent = currentLang === 'zh' ? 'En' : '中';
+        }
+
+        // ===== 图片全屏灯箱功能 =====
+        document.addEventListener('click', function(e) {
+            const target = e.target;
+            // 检查点击的是否是图片，并且该图片没有父级 onclick 或 data-click 等跳转属性
+            if (target.tagName === 'IMG') {
+            // 检查图片自身或其父级是否有 onclick（可能绑定在父级上）
+            let parent = target.parentElement;
+            let hasClick = target.hasAttribute('onclick') || 
+                       (parent && parent.hasAttribute('onclick')) ||
+                       (parent && parent.closest && parent.closest('[onclick]'));
+            // 如果存在跳转，则不触发全屏（让原有跳转执行）
+            if (hasClick) {
+                return; // 让事件继续冒泡，执行原有 onclick
+            }
+
+            // 阻止默认行为和冒泡，避免干扰其他事件
+            e.preventDefault();
+            e.stopPropagation();
+
+            // 创建遮罩
+            const overlay = document.createElement('div');
+            overlay.className = 'lightbox-overlay';
+            const imgClone = document.createElement('img');
+            imgClone.src = target.src;
+            imgClone.alt = target.alt || '';
+            overlay.appendChild(imgClone);
+
+            // 点击遮罩关闭
+            overlay.addEventListener('click', function() {
+                this.remove();
+            });
+
+            // 按 ESC 键关闭
+            const keyHandler = function(ev) {
+                if (ev.key === 'Escape') {
+                    overlay.remove();
+                    document.removeEventListener('keydown', keyHandler);
+                }
+            };
+            document.addEventListener('keydown', keyHandler);
+
+            document.body.appendChild(overlay);
+        }
+        }, true); // 使用捕获阶段，确保优先于其他事件
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+{
+      "id": "fabricating",
+      "nav": false,
+      "title_zh": "设计制作/技术支持",
+      "title_en": "FABRICATING & TECHNICAL SUPPORT",
+      "content_zh": 
+      [
+        "<div class=\"photo-grid\">",
+
+        "<div class=\"hover-zoom\" data-text=\"回旋\" onclick=\"showPage('Weaving')\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_6_Weaving/2.jpg\" alt=\"回旋\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"编织计划\" onclick=\"showPage('Woven')\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_5_Woven/1.jpg\" alt=\"编织计划\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"茶之路：一片树叶的全球化交织\" onclick=\"showPage('Tea')\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_4_Tea/1.jpg\" alt=\"茶之路\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"陷阱（那些转瞬之物）\" onclick=\"showPage('Trap')\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_3_Trap/1.jpg\" alt=\"陷阱\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"岸\" onclick=\"showPage('Shore')\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_2_Shore/1.jpg\" alt=\"岸\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"系统I\" onclick=\"showPage('System')\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_1_System/4.jpg\" alt=\"系统I\">",
+        "</div>"
+      ],
+      "content_en": 
+      [
+        "<div class=\"photo-grid\">",
+
+        "<div class=\"hover-zoom\" data-text=\"Weaving the Dharma Wheel\" onclick=\"showPage('Weaving')\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_6_Weaving/2.jpg\" alt=\"Weaving the Dharma Wheel\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"The Woven Project\" onclick=\"showPage('Woven')\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_5_Woven/1.jpg\" alt=\"The Woven Project\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Way of Tea: The Globalisation of A Leaf\" onclick=\"showPage('Tea')\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_4_Tea/1.jpg\" alt=\"Way of Tea\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Trap (Those Ephemeral Things)\" onclick=\"showPage('Trap')\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_3_Trap/1.jpg\" alt=\"Trap\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"The Shore\" onclick=\"showPage('Shore')\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_2_Shore/1.jpg\" alt=\"The Shore\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"SYSTEM I\" onclick=\"showPage('System')\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_1_System/4.jpg\" alt=\"System I\">",
+        "</div>"
+      ]
+}

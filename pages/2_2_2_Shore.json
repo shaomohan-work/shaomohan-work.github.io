@@ -1,0 +1,52 @@
+{
+      "id": "Shore",
+      "nav": false,
+      "title_zh": "岸",
+      "title_en": "The Shore",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_2_Shore/1.jpg\" alt=\"岸\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<h2>岸</h2>",
+        "<p>Pryisha Rajvanshi</p>",
+        "<p>影像装置（蓝晒布料，投影，家具）</p>",
+        "<p>2023</p>",
+        "<br>",
+        "<p>作为煤气厂艺术空间展览“蓝色空间：韧性水道的变化湍流”的一部分，作品《岸》回应了关于我们与自然之间不断演进的关系。艺术家在泰晤士河中制成的大型蓝晒布料织就了一个帐篷，并在布幔上投射出与之呼应的影像。与此同时，另一位艺术家Elise Guillaume 创作的原创音景将自然元素的振动声与人声相结合，从而促成人类与周围环境之间一场引人深思的对话。通过这种方式，艺术家邀请参观者放慢脚步聆听地球的声音，倾听它在我们努力适应不断变化的世界时所发出的呼唤。</p>",
+        "<br>",
+
+        "<video controls style=\"width:100%; max-width:800px; height:auto; border-radius:8px;\">",
+        "<source src=\"resources/2_0_projects/2_2_0_fabricating/2_2_2_Shore/4.mp4\" type=\"video/mp4\">",
+        "</video>",
+        
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_2_Shore/1.jpg\" alt=\"The Shore\" style=\"max-width:100%;\">",
+
+        "<br>",
+        "<br>",
+        "<h2>The Shore</h2>",
+        "<p>Pryisha Rajvanshi</p>",
+        "<p>Moving Image Installation (Cyanotype fabrics, Projection, Furniture)</p>",
+        "<p>2023</p>",
+        "<br>",
+        "<p>As a part of exhibition 'Blue Space: The Changing Currents of Resilient Waterways' at the Gasworks, art installation 'The Shore' responds to our evolving relationship with nature. Large cyanotype sheets made in the River Thames by artist Pryisha Rajvanshi have been adapted to form the tent’s canopy with a related projection across the interior walls. While, an original soundscape produced by another artist Elise Guillaume incorporates the vibration-based audio of natural elements with spoken word, to allow for a speculative conversation between humans and our surroundings to occur. Through this, the artists invite visitors to slow down and listen to the earth, as to hear its perspective as we look to adapt to our changing world. </p>",
+        "<br>",
+
+        "<video controls style=\"width:100%; max-width:800px; height:auto; border-radius:8px;\">",
+        "<source src=\"resources/2_0_projects/2_2_0_fabricating/2_2_2_Shore/4.mp4\" type=\"video/mp4\">",
+        "</video>",
+
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

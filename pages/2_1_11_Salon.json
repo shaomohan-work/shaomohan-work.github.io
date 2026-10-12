@@ -1,0 +1,42 @@
+{
+      "id": "Salon",
+      "nav": false,
+      "title_zh": "徐州艺术馆艺术史沙龙",
+      "title_en": "Art History Salons at Xuzhou Art Museum",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_11_Salon/1.jpg\" alt=\"徐州艺术馆艺术史沙龙\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<h2>徐州艺术馆艺术史沙龙</h2>",
+        "<p>徐州艺术馆，徐州，2024-2025</p>",
+        "<p>徐州艺术馆系列艺术史沙龙向公众分享中西方艺术的发展线索，及其广泛的历史、文化与社会语境。话题包括：印象派的诞生，巡回展览画派的现实主义脉络等。</p>",
+        "<br>",
+
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_11_Salon/2.jpg\" alt=\"徐州艺术馆艺术史沙龙\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_11_Salon/1.jpg\" alt=\"Art History Salons at Xuzhou Art Museum\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<h2>Art History Salons at Xuzhou Art Museum</h2>",
+        "<p>Xuzhou Art Museum, Xuzhou, 2024-2025</p>",
+        "<p>Art history salons at Xuzhou Art Museum explore the clues in the development of Chinese and Western art, alongside their droader historical, cultural and social contexts. Past sessions have covered topics such as the emergence of Impressionism and the realist lineage of Russian Peredvizhniki.</p>",
+        "<br>",
+
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_11_Salon/2.jpg\" alt=\"Art History Salons at Xuzhou Art Museum\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

@@ -1,0 +1,32 @@
+{
+      "id": "Pomegranates",
+      "nav": false,
+      "title_zh": "石榴的颜色",
+      "title_en": "The Colour of Pomegranates",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_10_Pomegranates/2.jpg\" alt=\"石榴的颜色\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<h2>石榴的颜色</h2>",
+        "<p>猛犸画廊，伦敦，2023</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_10_Pomegranates/2.jpg\" alt=\"The Colour of Pomegranates\" style=\"max-width:100%;\">",
+
+        "<br>",
+        "<br>",
+        "<h2>The Colour of Pomegranates</h2>",
+        "<p>MAMOTH, London, 2023</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

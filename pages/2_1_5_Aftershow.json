@@ -1,0 +1,32 @@
+{
+      "id": "Aftershow",
+      "nav": false,
+      "title_zh": "终演后",
+      "title_en": "Aftershow",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_5_Aftershow/1.jpg\" alt=\"终演后\" style=\"max-width:100%;\">",
+       
+        "<br>",
+        "<br>",
+        "<h2>终演后</h2>",
+        "<p>北京时代美术馆，北京，2019</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_5_Aftershow/1.jpg\" alt=\"Aftershow\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<h2>Aftershow</h2>",
+        "<p>Beijing Times Museum, Beijing, 2019</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

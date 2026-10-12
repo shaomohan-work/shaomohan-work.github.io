@@ -1,0 +1,60 @@
+{
+      "id": "Organ",
+      "nav": false,
+      "title_zh": "地下器官",
+      "title_en": "Subterranean Organ",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_7_Organ/5.jpg\" alt=\"地下器官\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<h2>地下器官</h2>",
+        "<p>地窖画廊，伦敦，2023</p>",
+        "<br>",
+
+        "<div class=\"photo-grid4\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_7_Organ/2.jpg\" alt=\"地下器官\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_7_Organ/3.jpg\" alt=\"地下器官\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_7_Organ/4.jpg\" alt=\"地下器官\">",
+        "</div>",
+
+        "<div class=\"photo-grid2\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_7_Organ/8.jpg\" alt=\"地下器官\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_7_Organ/9.jpg\" alt=\"地下器官\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_7_Organ/10.jpg\" alt=\"地下器官\">",
+        "</div>",
+
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_7_Organ/5.jpg\" alt=\"Subterranean Organ\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<h2>Subterranean Organ</h2>",
+        "<p>Crypt Gallery, London, 2023</p>",
+        "<br>",
+
+        "<div class=\"photo-grid4\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_7_Organ/2.jpg\" alt=\"Subterranean Organ\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_7_Organ/3.jpg\" alt=\"Subterranean Organ\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_7_Organ/4.jpg\" alt=\"Subterranean Organ\">",
+        "</div>",
+
+        "<div class=\"photo-grid2\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_7_Organ/8.jpg\" alt=\"Subterranean Organ\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_7_Organ/9.jpg\" alt=\"Subterranean Organ\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_7_Organ/10.jpg\" alt=\"Subterranean Organ\">",
+        "</div>",
+
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

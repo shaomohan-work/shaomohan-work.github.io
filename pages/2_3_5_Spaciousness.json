@@ -1,0 +1,32 @@
+{
+      "id": "Spaciousness",
+      "nav": false,
+      "title_zh": "消失的旷野",
+      "title_en": "Fading Spaciousness",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_5_Spaciousness/1.jpg\" alt=\"消失的旷野\" style=\"max-width:100%;\">",
+
+        "<br>",
+        "<br>",
+        "<h2>消失的旷野</h2>",
+        "<p>船屋画廊，伦敦，2023</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_5_Spaciousness/1.jpg\" alt=\"Fading Spaciousness\" style=\"max-width:100%;\">",
+
+        "<br>",
+        "<br>",
+        "<h2>Fading Spaciousness</h2>",
+        "<p>Bargehouse, London, 2023</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

@@ -1,0 +1,168 @@
+{
+      "id": "curating",
+      "nav": false,
+      "title_zh": "策划与研究",
+      "title_en": "CURATING & RESEARCH",
+      "content_zh": 
+      [
+        "<div class=\"photo-grid\">",
+        
+        "<div class=\"hover-zoom\" data-text=\"布展工EXHIBITECHS\" onclick=\"showPage('EXHIBITECHS')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_a_EXHIBITECHS/logo.jpg\" alt=\"布展工\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"东方意蕴，万象共生——中国当代绘画艺术展\" onclick=\"showPage('Eastern')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_18_Eastern/1.jpg\" alt=\"东方意蕴，万象共生——中国当代绘画艺术展\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"脑电波的独白\" onclick=\"showPage('Brainwave')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_17_Brainwave/3.jpg\" alt=\"脑电波的独白\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"拆装手册\" onclick=\"showPage('Teardown')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_16_Teardown/Visual/1.jpg\" alt=\"拆装手册\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"地铁艺术季·萌漫奇遇——徐州地铁动漫艺术展\" onclick=\"showPage('ACG')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_15_ACG/3.jpg\" alt=\"地铁艺术季·萌漫奇遇——徐州地铁动漫艺术展\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"你好，动漫——第二届徐州市中小学生创意美术双年展\" onclick=\"showPage('Comics')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_14_Comics/4.jpg\" alt=\"你好，动漫——第二届徐州市中小学生创意美术双年展\">",
+        "</div>",
+        
+        "<div class=\"hover-zoom\" data-text=\"行走·科学与艺术：艺术中的矿物\" onclick=\"showPage('Minerals')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_13_Minerals/1.jpg\" alt=\"行走·科学与艺术：艺术中的矿物\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"徐州八景\" onclick=\"showPage('Sceneries')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_12_Sceneries/1.jpg\" alt=\"徐州八景\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"徐州艺术馆艺术史沙龙\" onclick=\"showPage('Salon')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_11_Salon/1.jpg\" alt=\"徐州艺术馆艺术史沙龙\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"你好，自然——第一届徐州市中小学生创意美术双年展\" onclick=\"showPage('Nature')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_10_Nature/1.jpg\" alt=\"你好，自然——第一届徐州市中小学生创意美术双年展\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"重要的是接下来发生的\" onclick=\"showPage('Matters')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_9_Matters/1.jpg\" alt=\"重要的是接下来发生的\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"中国制造圣诞节\" onclick=\"showPage('Christmas')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_8_Christmas/1.jpg\" alt=\"中国制造圣诞节\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"儿童·画室·剧场\" onclick=\"showPage('Children')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_7_Children/1.jpg\" alt=\"儿童·画室·剧场\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"市井野史：博彩风云\" onclick=\"showPage('Gambling')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_6_Gambling/7.jpg\" alt=\"市井野史：博彩风云\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"终演后\" onclick=\"showPage('Aftershow')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_5_Aftershow/1.jpg\" alt=\"终演后\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"认识脚下的土地\" onclick=\"showPage('Land')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_4_Land/1.jpg\" alt=\"认识脚下的土地\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"雪山杯\" onclick=\"showPage('Jokul')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_3_Jokul/1.png\" alt=\"雪山杯\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"市井野史：悲情人物\" onclick=\"showPage('Poor')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_2_Poor/3.jpg\" alt=\"市井野史：悲情人物\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"燕郊站\" onclick=\"showPage('Yanjiao')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_1_Yanjiao/1.jpg\" alt=\"燕郊站\">",
+        "</div>"
+        
+      ],
+      "content_en": 
+      [
+        "<div class=\"photo-grid\">",
+        
+        "<div class=\"hover-zoom\" data-text=\"布展工EXHIBITECHS\" onclick=\"showPage('EXHIBITECHS')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_a_EXHIBITECHS/logo.jpg\" alt=\"EXHIBITECHS\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Eastern Essence, Symbiosis of All Things: Contemporary Chinese Painting Exhibition\" onclick=\"showPage('Eastern')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_18_Eastern/1.jpg\" alt=\"Eastern Essence, Symbiosis of All Things: Contemporary Chinese Painting Exhibition\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"The Monologue of Brainwaves\" onclick=\"showPage('Brainwave')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_17_Brainwave/3.jpg\" alt=\"The Monologue of Brainwaves\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Teardown Manuals\" onclick=\"showPage('Teardown')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_16_Teardown/Visual/1.jpg\" alt=\"Teardown Manuals\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Running Into ACG: Xuzhou Metro Youth Art Exhibition\" onclick=\"showPage('ACG')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_15_ACG/3.jpg\" alt=\"Running Into ACG: Xuzhou Metro Youth Art Exhibition\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"HI! COMICS: 2nd Xuzhou Youth Art Biennial\" onclick=\"showPage('Comics')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_14_Comics/4.jpg\" alt=\"HI! COMICS: 2nd Xuzhou Youth Art Biennial\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Wandering between Science and Art: The Minerals in Art\" onclick=\"showPage('Minerals')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_13_Minerals/1.jpg\" alt=\"Wandering between Science and Art: The Minerals in Art\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Eight Sceneries\" onclick=\"showPage('Sceneries')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_12_Sceneries/1.jpg\" alt=\"Eight Sceneries\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Art History Salons at Xuzhou Art Museum\" onclick=\"showPage('Salon')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_11_Salon/1.jpg\" alt=\"Art History Salons at Xuzhou Art Museum\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"HI! NATURE: 1st Xuzhou Youth Art Biennial\" onclick=\"showPage('Nature')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_10_Nature/1.jpg\" alt=\"HI! NATURE: 1st Xuzhou Youth Art Biennial\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"It Matters What Happens Next\" onclick=\"showPage('Matters')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_9_Matters/1.jpg\" alt=\"It Matters What Happens Next\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Christmas Made In China\" onclick=\"showPage('Christmas')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_8_Christmas/1.jpg\" alt=\"Christmas Made In China\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Children, Studio, Theatre\" onclick=\"showPage('Children')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_7_Children/1.jpg\" alt=\"Children, Studio, Theatre\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Folk History: Legends of Gambling\" onclick=\"showPage('Gambling')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_6_Gambling/7.jpg\" alt=\"Folk History: Legends of Gambling\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Aftershow\" onclick=\"showPage('Aftershow')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_5_Aftershow/1.jpg\" alt=\"Aftershow\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"The Land Down There\" onclick=\"showPage('Land')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_4_Land/1.jpg\" alt=\"The Land Down There\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Jokul Cup\" onclick=\"showPage('Jokul')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_3_Jokul/1.png\" alt=\"Jokul Cup\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Folk History: Poor guys\" onclick=\"showPage('Poor')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_2_Poor/3.jpg\" alt=\"Folk History: Poor Guys\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Yanjiao Station\" onclick=\"showPage('Yanjiao')\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_1_Yanjiao/1.jpg\" alt=\"Yanjiao Station\">",
+        "</div>"
+
+      ]
+    }

@@ -1,0 +1,50 @@
+{
+      "id": "Nature",
+      "nav": false,
+      "title_zh": "你好，自然——第一届徐州市中小学生创意美术双年展",
+      "title_en": "HI! NATURE: 1st Xuzhou Youth Art Biennial",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_10_Nature/5.jpg\" alt=\"你好，自然——第一届徐州市中小学生创意美术双年展\" style=\"max-width:100%;\">",
+       
+        "<br>",
+        "<br>",
+        "<h2>你好，自然——第一届徐州市中小学生创意美术双年展</h2>",
+        "<p>徐州艺术馆，徐州，2023</p>",
+        "<p><a href=\"resources/2_0_projects/2_1_0_curating/2_1_10_Nature/前言.pdf\" target=\"_blank\">展览前言</a></p>",
+        "<br>",
+
+        "<div class=\"photo-grid4\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_10_Nature/1.jpg\" alt=\"你好，自然——第一届徐州市中小学生创意美术双年展\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_10_Nature/4.jpg\" alt=\"你好，自然——第一届徐州市中小学生创意美术双年展\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_10_Nature/8.jpg\" alt=\"你好，自然——第一届徐州市中小学生创意美术双年展\">",
+        "</div>",
+
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_10_Nature/5.jpg\" alt=\"HI! NATURE: 1st Xuzhou Youth Art Biennial\" style=\"max-width:100%;\">",
+       
+        "<br>",
+        "<br>",
+        "<h2>HI! NATURE: 1st Xuzhou Youth Art Biennial</h2>",
+        "<p>Xuzhou Art Museum, Xuzhou, 2023</p>",
+        "<p><a href=\"resources/2_0_projects/2_1_0_curating/2_1_10_Nature/前言.pdf\" target=\"_blank\">Foreword</a></p>",
+        "<br>",
+
+        "<div class=\"photo-grid4\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_10_Nature/1.jpg\" alt=\"HI! NATURE: 1st Xuzhou Youth Art Biennial\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_10_Nature/4.jpg\" alt=\"HI! NATURE: 1st Xuzhou Youth Art Biennial\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_10_Nature/8.jpg\" alt=\"HI! NATURE: 1st Xuzhou Youth Art Biennial\">",
+        "</div>",
+        
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

@@ -1,0 +1,48 @@
+{
+      "id": "Underworld",
+      "nav": false,
+      "title_zh": "人逝间",
+      "title_en": "To the Underworld",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_11_Underworld/1.jpg\" alt=\"人逝间\" style=\"max-width:100%;\">",
+
+        "<br>",
+        "<br>",
+        "<h2 class=\"no-wrap\">人逝间</h2>",
+        "<p class=\"no-wrap\">科普尔X画廊，伦敦，2023</p>",
+        "<br>",
+
+        "<div class=\"photo-grid4\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_11_Underworld/2.jpg\" alt=\"人逝间\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_11_Underworld/3.jpg\" alt=\"人逝间\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_11_Underworld/4.jpg\" alt=\"人逝间\">",
+        "<div>",
+
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_11_Underworld/1.jpg\" alt=\"To the Underworld\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<h2 class=\"no-wrap\">To the Underworld</h2>",
+        "<p class=\"no-wrap\">Koppel X Gallery, London, 2023</p>",
+        "<br>",
+
+        "<div class=\"photo-grid4\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_11_Underworld/2.jpg\" alt=\"To the Underworld\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_11_Underworld/3.jpg\" alt=\"To the Underworld\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_11_Underworld/4.jpg\" alt=\"To the Underworld\">",
+        "<div>",
+
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

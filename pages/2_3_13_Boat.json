@@ -1,0 +1,52 @@
+{
+      "id": "Boat",
+      "nav": false,
+      "title_zh": "夜舟",
+      "title_en": "Night Boat",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_13_Boat/3.jpg\" alt=\"夜舟\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<h2>夜舟</h2>",
+        "<p class=\"no-wrap\">菲兹罗维亚画廊，伦敦，2023</p>",
+        "<br>",
+
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_13_Boat/1.jpg\" alt=\"夜舟\" style=\"max-width:100%;\">",
+
+        "<div class=\"photo-grid4\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_13_Boat/2.jpg\" alt=\"夜舟\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_13_Boat/4.jpg\" alt=\"夜舟\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_13_Boat/6.jpg\" alt=\"夜舟\">",
+        "<div>",
+
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_13_Boat/3.jpg\" alt=\"Night Boat\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<h2>Night Boat</h2>",
+        "<p class=\"no-wrap\">Fizrovia Gallery, London, 2023</p>",
+        "<br>",
+
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_13_Boat/1.jpg\" alt=\"Night Boat\" style=\"max-width:100%;\">",
+
+        "<div class=\"photo-grid4\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_13_Boat/2.jpg\" alt=\"Night Boat\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_13_Boat/4.jpg\" alt=\"Night Boat\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_13_Boat/6.jpg\" alt=\"Night Boat\">",
+        "<div>",
+
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

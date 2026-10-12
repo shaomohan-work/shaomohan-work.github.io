@@ -1,0 +1,32 @@
+{
+      "id": "projects",
+      "nav": true,
+      "title_zh": "项目",
+      "title_en": "PROJECTS",
+      "content_zh": 
+      [
+        "<div class=\"color-grid\">",
+
+        "<div class=\"color-item\" data-text=\"策划与研究\" onclick=\"showPage('curating')\" style=\"background-color: #FFA500;\">",
+        "</div>",
+
+        "<div class=\"color-item\" data-text=\"制作落地/技术支持\" onclick=\"showPage('fabricating')\" style=\"background-color: #2ECC71;\">",
+        "</div>",
+
+        "<div class=\"color-item\" data-text=\"展览安装\" onclick=\"showPage('installing')\" style=\"background-color: #3498db;\">",
+        "</div>"
+      ],
+      "content_en": 
+      [
+        "<div class=\"color-grid\">",
+
+        "<div class=\"color-item\" data-text=\"CURATING & RESEARCH\" onclick=\"showPage('curating')\" style=\"background-color: #FFA500;\">",
+        "</div>",
+
+        "<div class=\"color-item\" data-text=\"FABRICATING & TECHNICAL SUPPORT\" onclick=\"showPage('fabricating')\" style=\"background-color: #2ECC71;\">",
+        "</div>",
+
+        "<div class=\"color-item\" data-text=\"EXHIBITION INSTALLING\" onclick=\"showPage('installing')\" style=\"background-color: #3498db;\">",
+        "</div>"
+      ]
+}

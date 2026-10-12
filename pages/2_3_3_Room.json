@@ -1,0 +1,32 @@
+{
+      "id": "Room",
+      "nav": false,
+      "title_zh": "一个人的房间",
+      "title_en": "A Room of One's Own",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_3_Room/1.jpg\" alt=\"一个人的房间\" style=\"max-width:100%;\">",
+
+        "<br>",
+        "<br>",
+        "<h2>一个人的房间</h2>",
+        "<p>安全屋画廊，伦敦，2022</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_3_Room/1.jpg\" alt=\"A Room of One's Own\" style=\"max-width:100%;\">",
+
+        "<br>",
+        "<br>",
+        "<h2>A Room of One's Own</h2>",
+        "<p>Safehouse, London, 2022</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

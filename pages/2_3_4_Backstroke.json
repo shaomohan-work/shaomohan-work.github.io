@@ -1,0 +1,32 @@
+{
+      "id": "Backstroke",
+      "nav": false,
+      "title_zh": "仰泳",
+      "title_en": "Backstroke",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_4_Backstroke/1.jpg\" alt=\"仰泳\" style=\"max-width:100%;\">",
+
+        "<br>",
+        "<br>",
+        "<h2>仰泳</h2>",
+        "<p>巴茨福德画廊，伦敦，2023</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_4_Backstroke/1.jpg\" alt=\"Backstroke\" style=\"max-width:100%;\">",
+
+        "<br>",
+        "<br>",
+        "<h2>Backstroke</h2>",
+        "<p>Batsford Gallery, London, 2023</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

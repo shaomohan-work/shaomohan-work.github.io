@@ -1,0 +1,32 @@
+{
+      "id": "Land",
+      "nav": false,
+      "title_zh": "认识脚下的土地",
+      "title_en": "The Land Down There",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_4_Land/1.jpg\" alt=\"认识脚下的土地\" style=\"max-width:100%;\">",
+       
+        "<br>",
+        "<br>",
+        "<h2>认识脚下的土地</h2>",
+        "<p>李可染艺术馆，徐州，2019</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_4_Land/1.jpg\" alt=\"The Land Down There\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<h2>The Land Down There</h2>",
+        "<p>Li Keran Art Museum, Xuzhou, 2019</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

@@ -1,0 +1,63 @@
+{
+      "id": "Tea",
+      "nav": false,
+      "title_zh": "茶之路",
+      "title_en": "Way of Tea",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_4_Tea/1.jpg\" alt=\"茶之路\" style=\"max-width:100%;\">",
+
+        "<br>",
+        "<br>",
+        "<h2>茶之路：一片树叶的全球化交织</h2>",
+        "<p>叶甫纳</p>",
+        "<p>多媒体交互装置（茶桌，茶具，实验仪器，电子元件，显示器，绿植）</p>",
+        "<p>2024</p>",
+        "<br>",
+        "<p>作品在一张“智能茶桌”上探讨了茶叶如何从中国传到世界，成为全球化的推动因素，以及全球化如何相应地改变了茶叶的生产和消费模式。体验者可以触摸特殊的“茶具”，让不同种类的茶叶从“茶树”上以随机配比掉落到茶炉中混合烹煮，从而形成一杯独一无二的茶。同时屏幕中播放由AI参与生成的关于茶叶的种植历史与贸易流通的影像，影像的内容随着茶杯中的湿度与温度等条件而改变。</p>",
+        "<br>",
+        
+        "<div class=\"photo-grid2\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_4_Tea/3.jpg\" alt=\"茶之路\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_4_Tea/4.jpg\" alt=\"茶之路\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_4_Tea/5.jpg\" alt=\"茶之路\">",
+        "</div>",
+
+        "<div style=\"height:15px; margin:0; padding:0; line-height:0;\"></div>",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_4_Tea/6.jpg\" alt=\"茶之路\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_4_Tea/1.jpg\" alt=\"Way of Tea\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+
+        "<h2>Way of Tea: The Globalisation of A Leaf</h2>",
+        "<p>Funa Ye</p>",
+        "<p>Multimedia Interactive Installation (Teatable, Teawares, Laboratory equipment, Electronics, Monitors, Plants)</p>",
+        "<p>2024</p>",
+        "<br>",
+        "<p>This piece of work explores on an inteligent 'teatable' how tea was transported from China to the world as a driving force of globalisation, and how globalisation has correspondingly changed the way tea is producted and consumed. Experiencers can touch special 'teawares' to make different types of tea leaves fall from a 'tea tree' into a teapot in random propotions, and mix and boil for a unique cup of tea. The screens display AI-ganerated resources about the history of tea planting and tea trade. The resources switch and vary with the change of humidity and temperature in the tea bowls.</p>",
+        "<br>",
+
+        "<div class=\"photo-grid2\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_4_Tea/3.jpg\" alt=\"Way of Tea\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_4_Tea/4.jpg\" alt=\"Way of Tea\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_4_Tea/5.jpg\" alt=\"Way of Tea\">",
+        "</div>",
+
+        "<div style=\"height:15px; margin:0; padding:0; line-height:0;\"></div>",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_4_Tea/6.jpg\" alt=\"Way of Tea\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

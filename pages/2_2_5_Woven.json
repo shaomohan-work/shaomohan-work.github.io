@@ -1,0 +1,56 @@
+{
+      "id": "Woven",
+      "nav": false,
+      "title_zh": "编织计划",
+      "title_en": "The Woven Porject",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_5_Woven/1.jpg\" alt=\"编织计划\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<h2>编织计划</h2>",
+        "<p>皇家艺术学院策展团队</p>",
+        "<p>展示装置（纱，金属，3D打印材料，出版物）</p>",
+        "<p>2024</p>",
+        "<br>",
+        "<p>“编织计划”旨在重新审视我们所认知的 “中心” 与 “边缘” 之间，在地理、文化与个人层面普遍存在的权力格局。其中的策展人和艺术家致力于探索在伦敦挑战这些中心化意识形态的路径，并找到能够促进知识与资源体系的平等共享、获取与可视化呈现的新方法。</p>",
+        "<br>",
+
+        "<div class=\"photo-grid3\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_5_Woven/3.jpg\" alt=\"编织计划\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_5_Woven/5.jpg\" alt=\"编织计划\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_5_Woven/6.jpg\" alt=\"编织计划\">",
+        "</div>",
+
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_5_Woven/1.jpg\" alt=\"The Woven Project\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<h2>The Woven Project</h2>",
+        "<p>Cohort from Curating Contemporary Art Programme at the Royal College of Art</p>",
+        "<p>Display Installation (Polyester gauze, Metal, 3D printing material, Publications)</p>",
+        "<p>2024</p>",
+        "<br>",
+        "<p>The project sought to rethink the widespread power dynamics at pay between what we perceive as 'centres' and 'peripheries', both geographically, culturally and personally. The involved curators and artists aimed to investigate ways of challenging these centralised ideologies in London, and find new methods that facilitate equal sharing, accessing and making visible bodies of knowledge and resources</p>",
+        "<br>",
+
+        "<div class=\"photo-grid3\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_5_Woven/3.jpg\" alt=\"The Woven Project\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_5_Woven/5.jpg\" alt=\"The Woven Project\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_5_Woven/6.jpg\" alt=\"The Woven Project\">",
+        "</div>",
+
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

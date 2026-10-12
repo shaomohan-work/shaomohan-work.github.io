@@ -1,0 +1,48 @@
+{
+      "id": "Traces",
+      "nav": false,
+      "title_zh": "缺席的痕迹",
+      "title_en": "Absent Traces",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_2_Traces/1.jpg\" alt=\"缺席的痕迹\" style=\"max-width:100%;\">",
+
+        "<br>",
+        "<br>",
+        "<h2>缺席的痕迹</h2>",
+        "<p>船屋画廊，伦敦，2022</p>",
+        "<br>",
+
+        "<div class=\"photo-grid4\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_2_Traces/2.jpg\" alt=\"缺席的痕迹\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_2_Traces/3.jpg\" alt=\"缺席的痕迹\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_2_Traces/5.jpg\" alt=\"缺席的痕迹\">",
+        "<div>",
+
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_2_Traces/1.jpg\" alt=\"Absent Traces\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<h2>Absent Traces</h2>",
+        "<p class=\"no-wrap\">Bargehouse, London, 2022</p>",
+        "<br>",
+
+        "<div class=\"photo-grid4\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_2_Traces/2.jpg\" alt=\"Absent Traces\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_2_Traces/3.jpg\" alt=\"Absent Traces\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_2_Traces/5.jpg\" alt=\"Absent Traces\">",
+        "<div>",
+
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

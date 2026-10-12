@@ -1,0 +1,64 @@
+{
+      "id": "Polyphonic",
+      "nav": false,
+      "title_zh": "复调",
+      "title_en": "Polyphonic",
+      "content_zh": 
+      [
+        "<div class=\"photo-grid3\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/1.jpg\" alt=\"复调\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/2.jpg\" alt=\"复调\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/3.jpg\" alt=\"复调\">",
+        "</div>",
+
+        "<div class=\"photo-grid3\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/4.jpg\" alt=\"复调\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/5.jpg\" alt=\"复调\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/6.jpg\" alt=\"复调\">",
+        "</div>",
+
+        "<div class=\"photo-grid3\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/7.jpg\" alt=\"复调\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/8.jpg\" alt=\"复调\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/9.jpg\" alt=\"复调\">",
+        "</div>",
+
+        "<br>",
+        "<br>",
+        "<h2>复调</h2>",
+        "<p>地窖画廊，伦敦，2023</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<div class=\"photo-grid3\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/1.jpg\" alt=\"Polyphonic\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/2.jpg\" alt=\"Polyphonic\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/3.jpg\" alt=\"Polyphonic\">",
+        "</div>",
+
+        "<div class=\"photo-grid3\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/4.jpg\" alt=\"Polyphonic\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/5.jpg\" alt=\"Polyphonic\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/6.jpg\" alt=\"Polyphonic\">",
+        "</div>",
+
+        "<div class=\"photo-grid3\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/7.jpg\" alt=\"Polyphonic\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/8.jpg\" alt=\"Polyphonic\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/9.jpg\" alt=\"Polyphonic\">",
+        "</div>",
+
+        "<br>",
+        "<br>",
+        "<h2>Polyphonic</h2>",
+        "<p>Crypt Gallery, London, 2023</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

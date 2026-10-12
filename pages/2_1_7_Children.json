@@ -1,0 +1,32 @@
+{
+      "id": "Children",
+      "nav": false,
+      "title_zh": "儿童·画室·剧场",
+      "title_en": "Children, Studio, Theatre",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_7_Children/1.jpg\" alt=\"儿童·画室·剧场\" style=\"max-width:100%;\">",
+       
+        "<br>",
+        "<br>",
+        "<h2>儿童·画室·剧场</h2>",
+        "<p>徐州艺术馆，徐州，2020</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_7_Children/1.jpg\" alt=\"Children, Studio, Theatre\" style=\"max-width:100%;\">",
+        
+        "<br>",
+        "<br>",
+        "<h2>Children, Studio, Theatre</h2>",
+        "<p>Xuzhou Art Museum, Xuzhou, 2020</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

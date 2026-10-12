@@ -1,0 +1,32 @@
+{
+      "id": "Gap",
+      "nav": false,
+      "title_zh": "当心空隙",
+      "title_en": "Mind the Gap",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_9_Gap/1.jpg\" alt=\"当心空隙\" style=\"max-width:100%;\">",
+
+        "<br>",
+        "<br>",
+        "<h2>当心空隙</h2>",
+        "<p>黑天鹅庭院工作室，伦敦，2023</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_9_Gap/1.jpg\" alt=\"Mind the Gap\" style=\"max-width:100%;\">",
+
+        "<br>",
+        "<br>",
+        "<h2>Mind the Gap</h2>",
+        "<p>Black Swan Yard Studios, London, 2023</p>",
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

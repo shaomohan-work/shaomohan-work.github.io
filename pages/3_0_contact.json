@@ -1,0 +1,16 @@
+{
+      "id": "contact",
+      "nav": true,
+      "title_zh": "联系",
+      "title_en": "CONTACT",
+      "content_zh": [
+        "<p>邮箱：mohanshao63@gmail.com</p>",
+        "<p>微信：s_the_tech</p>",
+        "<p>公众号：布展工EXHIBITECHS<p>"
+      ],
+      "content_en": [
+        "<p>Email: mohanshao63@gmail.com</p>",
+        "<p>Wechat: s_the_tech</p>",
+        "<p>Wechat Official Account: 布展工EXHIBITECHS<p>"
+      ]
+}

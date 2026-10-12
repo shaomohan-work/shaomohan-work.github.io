@@ -1,0 +1,64 @@
+{
+      "id": "System",
+      "nav": false,
+      "title_zh": "系统I",
+      "title_en": "SYSTEM I",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_1_System/10.gif\" alt=\"系统I\" style=\"width:100%; height:auto; display:block;\">",
+        
+        "<br>",
+        "<br>",
+        "<h2>系统I</h2>",
+        "<p>罗铠豪</p>",
+        "<p>交互装置（3D打印材料，亚克力，电机，电子元件）</p>",
+        "<p>2022</p>",
+        "<br>",
+        "<p>《系统Ⅰ》试图通过邀请参与者与单向、多路径的滚动球装置互动，提供一种思考当前生活状况和情绪的方式。</p>",
+        "<p>从顶部起始点落下的球体将通过多个微型自动转向装置分配到不同的路径上。每条路径看起来各不相同，但其设计目的都是为了引导球体到达同一个目的地。所有球体均由纸粘土手工制作，内部储存着种子，因此每个球体的运动轨迹都会因其自身的不规则性而有所不同。装置的上部连接着多个“叉子”。当种子球到达叉子的末端时，它就会落入地面的土壤中。落入湿润土壤中的种子球可能会在几天内发芽。当参与者转动控制面板上的旋钮时，部分转向装置的运行角度会发生变化，这可能会影响球体的运动路径。因此，通过操作这些旋钮，参与者可以辅助球体进入叉子。然而，这种改变可能不会直接反映在球体的运动结果上。绝大多数种子球仍然会滚动到预设的终点。</p>",
+        "<p>这样的系统意味着我们生活在一个社会中，扮演着各自的角色，共同面对着生命终将逝去的命运。在社会生活中，当我们遇到问题时，或许无法直接改变“现实”的运行方式，但我们需要通过众多人的努力和声音，持续做出尝试。这些尝试的效果或许会被忽视，也未必能直接带来所谓的“好”或“正确”的结果。但即便我们能做的有限，能够从根本上改变的事情也寥寥无几，尝试也永远值得。</p>",
+        "<br>",
+
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_1_System/9.jpg\" alt=\"系统I\" style=\"max-width:100%;\">",
+
+        "<div class=\"photo-grid2\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_1_System/4.jpg\" alt=\"系统I\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_1_System/7.jpg\" alt=\"系统I\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_1_System/8.jpg\" alt=\"系统I\">",
+        "</div>",
+
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_1_System/10.gif\" alt=\"SYSTEM I\" style=\"width:100%; height:auto; display:block; border-radius:8px;\">",
+        
+        "<br>",
+        "<br>",
+        "<h2>SYSTEM I</h2>",
+        "<p>Kaihao Luo</p>",
+        "<p>Interactive Installation (3D printing materials, Acrylics, Motors, Electronics)</p>",
+        "<p>2022</p>",
+        "<br>",
+        "<p>'SYSTEM I' attempts to provide a way to think about life situation and emotions by inviting participants to interact with the unidirectional, multi-path rolling ball installation.</p>",
+        "<p>The balls falling from the top starting point will be distributed through a number of miniature automatic steering engines to different paths. Each path looks different, but is designed to guide the balls to one same destination. All balls are handcrafted from paper clay with seeds stored inside, so the trajectory of each ball will vary based on its own irregularities. The upper part of the installation is connected to a number of 'forks'. Once a seed ball reaches the end of a fork, it will then drop into the soil on the ground. Seed balls that fall into moist soil may sprout within a few days. When a participant turns the knob on the control panel, the operating angle of some steering engines will change, which may affect the ball’s path. Thus, by manipulating these knobs, the participants will provide the possibility to support a ball move into the fork. However, such changes may not be directly reflected in its operating result. The vast majority of the seed balls may still roll toward the given end point.</p>",
+        "<p>Such a system implies a society in which we are living and playing our respective roles, while expressing a common destiny that life ends in death. In our social life, when we encounter problems, we may not be able to directly change the way that 'reality' works, but we need to continue to make some attempts through the efforts and voices of many people. The effects of these attempts may be overlooked and may not directly lead to a so-called 'good' or 'correct' outcome. But even if what can be done is limited and only a few things that  can be fundamentally changed, it is always worth trying.</p>",
+        "<br>",
+
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_1_System/9.jpg\" alt=\"SYSTEM I\" style=\"max-width:100%;\">",
+
+        "<div class=\"photo-grid2\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_1_System/4.jpg\" alt=\"SYSTEM I\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_1_System/7.jpg\" alt=\"SYSTEM I\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_1_System/8.jpg\" alt=\"SYSTEM I\">",
+        "</div>",
+
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

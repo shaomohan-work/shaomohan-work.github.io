@@ -1,0 +1,134 @@
+{
+      "id": "installing",
+      "nav": false,
+      "title_zh": "展览落地",
+      "title_en": "EXHIBITION INSTALLING",
+      "content_zh": 
+      [
+        "<div class=\"photo-grid\">",
+
+        "<div class=\"hover-zoom\" data-text=\"隐形的伤口\" onclick=\"showPage('Wound')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/1.jpg\" alt=\"隐形的伤口\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"瑟琳娜·黄：我在第7、8节肋骨间看到太阳和月亮\" onclick=\"showPage('Serena')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_14_Serena/1.jpg\" alt=\"瑟琳娜·黄：我在第7、8节肋骨间看到太阳和月亮\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"夜舟\" onclick=\"showPage('Boat')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_13_Boat/1.jpg\" alt=\"夜舟\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"RCA2023\" onclick=\"showPage('RCA2023')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_12_RCA2023/1.jpg\" alt=\"RCA2023\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"人逝间\" onclick=\"showPage('Underworld')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_11_Underworld/1.jpg\" alt=\"人逝间\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"石榴的颜色\" onclick=\"showPage('Pomegranates')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_10_Pomegranates/1.jpg\" alt=\"石榴的颜色\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"当心空隙\" onclick=\"showPage('Gap')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_9_Gap/2.jpg\" alt=\"当心空隙\">",
+        "</div>",
+        
+        "<div class=\"hover-zoom\" data-text=\"复调\" onclick=\"showPage('Polyphonic')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/10.png\" alt=\"复调\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"地下器官\" onclick=\"showPage('Organ')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_7_Organ/8.jpg\" alt=\"地下器官\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"据说……\" onclick=\"showPage('Said')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_6_Said/2.jpg\" alt=\"据说……\">",
+        "</div>",
+        
+        "<div class=\"hover-zoom\" data-text=\"消失的旷野\" onclick=\"showPage('Spaciousness')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_5_Spaciousness/5.jpg\" alt=\"消失的旷野\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"仰泳\" onclick=\"showPage('Backstroke')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_4_Backstroke/3.jpg\" alt=\"仰泳\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"一个人的房间\" onclick=\"showPage('Room')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_3_Room/1.jpg\" alt=\"一个人的房间\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"缺席的痕迹\" onclick=\"showPage('Traces')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_2_Traces/1.jpg\" alt=\"缺席的痕迹\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"玩乐时间\" onclick=\"showPage('Fun')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_1_Fun/1.jpg\" alt=\"玩乐时间\">",
+        "</div>"
+      ],
+      "content_en": 
+      [
+        "<div class=\"photo-grid\">",
+
+        "<div class=\"hover-zoom\" data-text=\"Unseen Wound\" onclick=\"showPage('Wound')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/1.jpg\" alt=\"Unseen Wound\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Serena Huang: I Saw A Sun And A Moon As I Entered Between The 7th And 8th Rib...\" onclick=\"showPage('Serena')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_14_Serena/1.jpg\" alt=\"Serena Huang: I Saw A Sun And A Moon As I Entered Between The 7th And 8th Rib...\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Night Boat\" onclick=\"showPage('Boat')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_13_Boat/1.jpg\" alt=\"Night Boat\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"RCA2023\" onclick=\"showPage('RCA2023')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_12_RCA2023/1.jpg\" alt=\"RCA2023\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"To the Underworld\" onclick=\"showPage('Underworld')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_11_Underworld/1.jpg\" alt=\"To the Underworld\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"The Colour of Pomegranates\" onclick=\"showPage('Pomegranates')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_10_Pomegranates/1.jpg\" alt=\"The Colour of Pomegranates\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Mind the Gap\" onclick=\"showPage('Gap')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_9_Gap/2.jpg\" alt=\"Mind the Gap\">",
+        "</div>",
+        
+        "<div class=\"hover-zoom\" data-text=\"Polyphonic\" onclick=\"showPage('Polyphonic')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_8_Polyphonic/10.png\" alt=\"Polyphonic\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Subterranean Organ\" onclick=\"showPage('Organ')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_7_Organ/8.jpg\" alt=\"Subterranean Organ\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"It Is Said That...\" onclick=\"showPage('Said')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_6_Said/2.jpg\" alt=\"It Is Said That...\">",
+        "</div>",
+        
+        "<div class=\"hover-zoom\" data-text=\"Fading Spaciousness\" onclick=\"showPage('Spaciousness')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_5_Spaciousness/5.jpg\" alt=\"Fading Spaciousness\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Backstroke\" onclick=\"showPage('Backstroke')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_4_Backstroke/3.jpg\" alt=\"Backstroke\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"A Room of One's Own\" onclick=\"showPage('Room')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_3_Room/1.jpg\" alt=\"A Room of One's Own\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"Absent Traces\" onclick=\"showPage('Traces')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_2_Traces/1.jpg\" alt=\"Absent Traces\">",
+        "</div>",
+
+        "<div class=\"hover-zoom\" data-text=\"It's all fun until...\" onclick=\"showPage('Fun')\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_1_Fun/1.jpg\" alt=\"It's all fun until...\">",
+        "</div>"
+      ]
+}

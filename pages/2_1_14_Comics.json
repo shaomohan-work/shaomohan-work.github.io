@@ -1,0 +1,50 @@
+{
+      "id": "Comics",
+      "nav": false,
+      "title_zh": "你好，动漫——第二届徐州市中小学生创意美术双年展",
+      "title_en": "HI! COMICS: 2nd Xuzhou Youth Art Biennial",
+      "content_zh": 
+      [
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_14_Comics/4.jpg\" alt=\"你好，动漫——第二届徐州市中小学生创意美术双年展\" style=\"max-width:100%;\">",
+       
+        "<br>",
+        "<br>",
+        "<h2>你好，动漫——第二届徐州市中小学生创意美术双年展</h2>",
+        "<p>徐州艺术馆，徐州，2025</p>",
+        "<p><a href=\"resources/2_0_projects/2_1_0_curating/2_1_14_Comics/前言.pdf\" target=\"_blank\">展览前言</a></p>",
+        "<br>",
+        
+        "<div class=\"photo-grid4\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_14_Comics/1.jpg\" alt=\"你好，动漫——第二届徐州市中小学生创意美术双年展\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_14_Comics/2.jpg\" alt=\"你好，动漫——第二届徐州市中小学生创意美术双年展\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_14_Comics/3.jpg\" alt=\"你好，动漫——第二届徐州市中小学生创意美术双年展\">",
+        "</div>",
+        
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ],
+      "content_en":
+      [
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_14_Comics/4.jpg\" alt=\"HI! COMICS: 2nd Xuzhou Youth Art Biennial\" style=\"max-width:100%;\">",
+       
+        "<br>",
+        "<br>",
+        "<h2>HI! COMICS: 2nd Xuzhou Youth Art Biennial</h2>",
+        "<p>Xuzhou Art Museum, Xuzhou, 2025</p>",
+        "<p><a href=\"resources/2_0_projects/2_1_0_curating/2_1_14_Comics/前言.pdf\" target=\"_blank\">Foreword</a></p>",
+        "<br>",
+        
+        "<div class=\"photo-grid4\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_14_Comics/1.jpg\" alt=\"HI! COMICS: 2nd Xuzhou Youth Art Biennial\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_14_Comics/2.jpg\" alt=\"HI! COMICS: 2nd Xuzhou Youth Art Biennial\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_14_Comics/3.jpg\" alt=\"HI! COMICS: 2nd Xuzhou Youth Art Biennial\">",
+        "</div>",
+        
+        "<br>",
+        "<br>",
+        "<br>",
+        "<br>"
+      ]
+}

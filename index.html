@@ -101,6 +101,12 @@
             }
         });
 
+        function enableLazyLoading(container) {
+            container.querySelectorAll('img').forEach(img => {
+            img.loading = 'lazy';
+            });
+        }
+
         // ===== 渲染所有内容 =====
         function renderAll() {
             const navContainer = document.getElementById('navContainer');
@@ -130,8 +136,11 @@
                 if (page.id !== currentPageId) {
                     div.hidden = true;
                 }
+                
+                enableLazyLoading(div);
                 contentContainer.appendChild(div);
                 contentElements.push(div);
+
             });
 
             // 生成语言切换标签
@@ -155,6 +164,7 @@
             contentElements.forEach((div, index) => {
                 const page = pagesData[index];
                 div.innerHTML = page[`content_${currentLang}`].join('');
+                enableLazyLoading(div);
             });
 
             langToggleSpan.textContent = currentLang === 'zh' ? 'En' : '中';

@@ -312,14 +312,8 @@
     }
 }
 
-/*手机端色块更宽*/
-@media (max-width: 600px) {
-    .color-item {
-        width: calc(50% - 20px) !important;   /* 手机端每行 2 个 */
-    }
-}
 
-/*手机端字号*/
+/*手机端减小字号*/
 @media (max-width: 600px) {
     .color-item::after {
         font-size: 0.75rem;

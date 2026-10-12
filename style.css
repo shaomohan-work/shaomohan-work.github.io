@@ -198,6 +198,7 @@
 }
 
 .color-item {
+    position: relative;
     width: calc(33.333% - 20px) !important;   /* 3列，减去 gap */
     aspect-ratio: 1 / 1 !important;
     border-radius: 10px;
@@ -266,6 +267,7 @@
 .photo-grid2 img,
 .photo-grid3 img,
 .photo-grid4 img,
+.photo-grid5 img,
 .image-link {
     will-change: transform;
 }

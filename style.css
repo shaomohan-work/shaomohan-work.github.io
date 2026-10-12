@@ -159,24 +159,23 @@
 .hover-zoom::after {
     content: attr(data-text);
     position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 8px 10px;
+    padding: 6px;
     box-sizing: border-box;
     color: #fff;
     background: rgba(0, 0, 0, 0.6);
-    font-size: 0.85rem;
+    font-size: clamp(0.6rem, 2vw, 0.85rem);
     opacity: 0;
     transition: opacity 0.2s ease;
     pointer-events: none;
     word-break: break-word;
-    line-height: 1.3;
+    line-height: 1.2;
+    overflow: hidden;
 }
 
 .hover-zoom:hover::after {
@@ -220,23 +219,22 @@
 .color-item::after {
     content: attr(data-text);
     position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 8px 10px;
+    padding: 6px;
     box-sizing: border-box;
     color: #fff;
-    font-size: 0.9rem;
+    font-size: clamp(0.6rem, 2.2vw, 0.9rem);   /* 字号随屏幕缩放 */
     font-weight: 500;
     text-shadow: 0 2px 12px rgba(0, 0, 0, 0.9);
     pointer-events: none;
     word-break: break-word;
-    line-height: 1.3;
+    line-height: 1.2;
+    overflow: hidden;
 }
 
 
@@ -311,6 +309,13 @@
     #contentContainer {
         padding-left: 8px;
         padding-right: 8px;
+    }
+}
+
+/*手机端色块更宽*/
+@media (max-width: 600px) {
+    .color-item {
+        width: calc(50% - 20px) !important;   /* 手机端每行 2 个 */
     }
 }
 

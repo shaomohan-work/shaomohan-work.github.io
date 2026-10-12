@@ -287,7 +287,8 @@
 }
 
 
-#contentContainer p {
+/* 只对英文段落两端对齐，中文保持左对齐 */
+#contentContainer[lang="en"] p {
     text-align: justify;
     text-justify: inter-word;
     hyphens: auto;

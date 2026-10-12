@@ -111,6 +111,10 @@
         function renderAll() {
             const navContainer = document.getElementById('navContainer');
             const contentContainer = document.getElementById('contentContainer');
+
+            // 新增：同步 lang 属性，控制中英文对齐方式
+    contentContainer.setAttribute('lang', currentLang === 'en' ? 'en' : 'zh-CN');
+    
             navContainer.innerHTML = '';
             contentContainer.innerHTML = '';
             navElements.length = 0;
@@ -155,6 +159,10 @@
         function toggleLanguage() {
             currentLang = currentLang === 'zh' ? 'en' : 'zh';
             localStorage.setItem('lang', currentLang);
+
+            // 新增：同步 lang 属性，用于控制中英文对齐方式
+    document.getElementById('contentContainer')
+        .setAttribute('lang', currentLang === 'en' ? 'en' : 'zh-CN');
 
             const navPages = pagesData.filter(page => page.nav !== false);
             navElements.forEach((span, index) => {

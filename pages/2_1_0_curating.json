@@ -12,11 +12,11 @@
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"东方意蕴，万象共生——中国当代绘画艺术展\" onclick=\"showPage('Eastern')\">",
-        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_18_Eastern/1.jpg\" alt=\"东方意蕴，万象共生——中国当代绘画艺术展\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_18_Eastern/1.JPG\" alt=\"东方意蕴，万象共生——中国当代绘画艺术展\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"脑电波的独白\" onclick=\"showPage('Brainwave')\">",
-        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_17_Brainwave/3.jpg\" alt=\"脑电波的独白\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_17_Brainwave/3.JPG\" alt=\"脑电波的独白\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"拆装手册\" onclick=\"showPage('Teardown')\">",
@@ -24,7 +24,7 @@
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"地铁艺术季·萌漫奇遇——徐州地铁动漫艺术展\" onclick=\"showPage('ACG')\">",
-        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_15_ACG/3.jpg\" alt=\"地铁艺术季·萌漫奇遇——徐州地铁动漫艺术展\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_15_ACG/3.JPG\" alt=\"地铁艺术季·萌漫奇遇——徐州地铁动漫艺术展\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"你好，动漫——第二届徐州市中小学生创意美术双年展\" onclick=\"showPage('Comics')\">",
@@ -32,7 +32,7 @@
         "</div>",
         
         "<div class=\"hover-zoom\" data-text=\"行走·科学与艺术：艺术中的矿物\" onclick=\"showPage('Minerals')\">",
-        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_13_Minerals/1.jpg\" alt=\"行走·科学与艺术：艺术中的矿物\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_13_Minerals/1.JPG\" alt=\"行走·科学与艺术：艺术中的矿物\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"徐州八景\" onclick=\"showPage('Sceneries')\">",
@@ -52,7 +52,7 @@
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"中国制造圣诞节\" onclick=\"showPage('Christmas')\">",
-        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_8_Christmas/1.jpg\" alt=\"中国制造圣诞节\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_8_Christmas/1.JPG\" alt=\"中国制造圣诞节\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"儿童·画室·剧场\" onclick=\"showPage('Children')\">",
@@ -76,11 +76,11 @@
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"市井野史：悲情人物\" onclick=\"showPage('Poor')\">",
-        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_2_Poor/3.jpg\" alt=\"市井野史：悲情人物\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_2_Poor/3.JPG\" alt=\"市井野史：悲情人物\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"燕郊站\" onclick=\"showPage('Yanjiao')\">",
-        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_1_Yanjiao/1.jpg\" alt=\"燕郊站\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_1_Yanjiao/1.JPG\" alt=\"燕郊站\">",
         "</div>"
         
       ],
@@ -93,11 +93,11 @@
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"Eastern Essence, Symbiosis of All Things: Contemporary Chinese Painting Exhibition\" onclick=\"showPage('Eastern')\">",
-        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_18_Eastern/1.jpg\" alt=\"Eastern Essence, Symbiosis of All Things: Contemporary Chinese Painting Exhibition\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_18_Eastern/1.JPG\" alt=\"Eastern Essence, Symbiosis of All Things: Contemporary Chinese Painting Exhibition\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"The Monologue of Brainwaves\" onclick=\"showPage('Brainwave')\">",
-        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_17_Brainwave/3.jpg\" alt=\"The Monologue of Brainwaves\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_17_Brainwave/3.JPG\" alt=\"The Monologue of Brainwaves\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"Teardown Manuals\" onclick=\"showPage('Teardown')\">",
@@ -105,7 +105,7 @@
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"Running Into ACG: Xuzhou Metro Youth Art Exhibition\" onclick=\"showPage('ACG')\">",
-        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_15_ACG/3.jpg\" alt=\"Running Into ACG: Xuzhou Metro Youth Art Exhibition\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_15_ACG/3.JPG\" alt=\"Running Into ACG: Xuzhou Metro Youth Art Exhibition\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"HI! COMICS: 2nd Xuzhou Youth Art Biennial\" onclick=\"showPage('Comics')\">",
@@ -113,7 +113,7 @@
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"Wandering between Science and Art: The Minerals in Art\" onclick=\"showPage('Minerals')\">",
-        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_13_Minerals/1.jpg\" alt=\"Wandering between Science and Art: The Minerals in Art\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_13_Minerals/1.JPG\" alt=\"Wandering between Science and Art: The Minerals in Art\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"Eight Sceneries\" onclick=\"showPage('Sceneries')\">",
@@ -133,7 +133,7 @@
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"Christmas Made In China\" onclick=\"showPage('Christmas')\">",
-        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_8_Christmas/1.jpg\" alt=\"Christmas Made In China\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_8_Christmas/1.JPG\" alt=\"Christmas Made In China\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"Children, Studio, Theatre\" onclick=\"showPage('Children')\">",
@@ -157,11 +157,11 @@
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"Folk History: Poor guys\" onclick=\"showPage('Poor')\">",
-        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_2_Poor/3.jpg\" alt=\"Folk History: Poor Guys\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_2_Poor/3.JPG\" alt=\"Folk History: Poor Guys\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"Yanjiao Station\" onclick=\"showPage('Yanjiao')\">",
-        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_1_Yanjiao/1.jpg\" alt=\"Yanjiao Station\">",
+        "<img src=\"resources/2_0_projects/2_1_0_curating/2_1_1_Yanjiao/1.JPG\" alt=\"Yanjiao Station\">",
         "</div>"
 
       ]

@@ -12,7 +12,7 @@
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"编织计划\" onclick=\"showPage('Woven')\">",
-        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_5_Woven/1.jpg\" alt=\"编织计划\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_5_Woven/1.JPG\" alt=\"编织计划\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"茶之路：一片树叶的全球化交织\" onclick=\"showPage('Tea')\">",
@@ -40,7 +40,7 @@
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"The Woven Project\" onclick=\"showPage('Woven')\">",
-        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_5_Woven/1.jpg\" alt=\"The Woven Project\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_5_Woven/1.JPG\" alt=\"The Woven Project\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"Way of Tea: The Globalisation of A Leaf\" onclick=\"showPage('Tea')\">",

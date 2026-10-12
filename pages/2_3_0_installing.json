@@ -8,15 +8,15 @@
         "<div class=\"photo-grid\">",
 
         "<div class=\"hover-zoom\" data-text=\"隐形的伤口\" onclick=\"showPage('Wound')\">",
-        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/1.jpg\" alt=\"隐形的伤口\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/1.JPG\" alt=\"隐形的伤口\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"瑟琳娜·黄：我在第7、8节肋骨间看到太阳和月亮\" onclick=\"showPage('Serena')\">",
-        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_14_Serena/1.jpg\" alt=\"瑟琳娜·黄：我在第7、8节肋骨间看到太阳和月亮\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_14_Serena/1.JPG\" alt=\"瑟琳娜·黄：我在第7、8节肋骨间看到太阳和月亮\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"夜舟\" onclick=\"showPage('Boat')\">",
-        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_13_Boat/1.jpg\" alt=\"夜舟\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_13_Boat/1.JPG\" alt=\"夜舟\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"RCA2023\" onclick=\"showPage('RCA2023')\">",
@@ -32,7 +32,7 @@
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"当心空隙\" onclick=\"showPage('Gap')\">",
-        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_9_Gap/2.jpg\" alt=\"当心空隙\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_9_Gap/2.JPG\" alt=\"当心空隙\">",
         "</div>",
         
         "<div class=\"hover-zoom\" data-text=\"复调\" onclick=\"showPage('Polyphonic')\">",
@@ -64,7 +64,7 @@
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"玩乐时间\" onclick=\"showPage('Fun')\">",
-        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_1_Fun/1.jpg\" alt=\"玩乐时间\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_1_Fun/1.JPG\" alt=\"玩乐时间\">",
         "</div>"
       ],
       "content_en": 
@@ -72,15 +72,15 @@
         "<div class=\"photo-grid\">",
 
         "<div class=\"hover-zoom\" data-text=\"Unseen Wound\" onclick=\"showPage('Wound')\">",
-        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/1.jpg\" alt=\"Unseen Wound\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_15_Wound/1.JPG\" alt=\"Unseen Wound\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"Serena Huang: I Saw A Sun And A Moon As I Entered Between The 7th And 8th Rib...\" onclick=\"showPage('Serena')\">",
-        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_14_Serena/1.jpg\" alt=\"Serena Huang: I Saw A Sun And A Moon As I Entered Between The 7th And 8th Rib...\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_14_Serena/1.JPG\" alt=\"Serena Huang: I Saw A Sun And A Moon As I Entered Between The 7th And 8th Rib...\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"Night Boat\" onclick=\"showPage('Boat')\">",
-        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_13_Boat/1.jpg\" alt=\"Night Boat\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_13_Boat/1.JPG\" alt=\"Night Boat\">",
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"RCA2023\" onclick=\"showPage('RCA2023')\">",
@@ -96,7 +96,7 @@
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"Mind the Gap\" onclick=\"showPage('Gap')\">",
-        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_9_Gap/2.jpg\" alt=\"Mind the Gap\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_9_Gap/2.JPG\" alt=\"Mind the Gap\">",
         "</div>",
         
         "<div class=\"hover-zoom\" data-text=\"Polyphonic\" onclick=\"showPage('Polyphonic')\">",
@@ -128,7 +128,7 @@
         "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"It's all fun until...\" onclick=\"showPage('Fun')\">",
-        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_1_Fun/1.jpg\" alt=\"It's all fun until...\">",
+        "<img src=\"resources/2_0_projects/2_3_0_installing/2_3_1_Fun/1.JPG\" alt=\"It's all fun until...\">",
         "</div>"
       ]
 }

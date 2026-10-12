@@ -295,3 +295,11 @@
     text-justify: inter-word;
     hyphens: auto;
 }
+
+/* 手机端减小页面左右边距 */
+@media (max-width: 600px) {
+    #contentContainer {
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+}

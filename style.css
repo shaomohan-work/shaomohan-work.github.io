@@ -321,3 +321,12 @@
         line-height: 1.2;
     }
 }
+
+/* 手机端缩小导航标签间距 */
+@media (max-width: 600px) {
+    .nav span:not(.lang-toggle) {
+        margin-right: 16px;   /* 标签之间间距，保留区分度 */
+        width: auto;          /* 宽度随文字 */
+        padding: 0 6px;       /* 文字左右留一点空间，视觉更清晰 */
+    }
+}

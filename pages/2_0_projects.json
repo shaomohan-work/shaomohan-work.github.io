@@ -10,7 +10,7 @@
         "<div class=\"color-item\" data-text=\"策划/研究\" onclick=\"showPage('curating')\" style=\"background-color: #FFA500;\">",
         "</div>",
 
-        "<div class=\"color-item\" data-text=\"制作落地/技术支持\" onclick=\"showPage('fabricating')\" style=\"background-color: #2ECC71;\">",
+        "<div class=\"color-item\" data-text=\"技术实践/制作支持\" onclick=\"showPage('fabricating')\" style=\"background-color: #2ECC71;\">",
         "</div>",
 
         "<div class=\"color-item\" data-text=\"展览安装\" onclick=\"showPage('installing')\" style=\"background-color: #3498db;\">",
@@ -23,7 +23,7 @@
         "<div class=\"color-item\" data-text=\"CURATING & RESEARCH\" onclick=\"showPage('curating')\" style=\"background-color: #FFA500;\">",
         "</div>",
 
-        "<div class=\"color-item\" data-text=\"FABRICATING & TECHNICAL SUPPORT\" onclick=\"showPage('fabricating')\" style=\"background-color: #2ECC71;\">",
+        "<div class=\"color-item\" data-text=\"TECHNICAL WORK & FABRICATION SUPPORT\" onclick=\"showPage('fabricating')\" style=\"background-color: #2ECC71;\">",
         "</div>",
 
         "<div class=\"color-item\" data-text=\"EXHIBITION INSTALLING\" onclick=\"showPage('installing')\" style=\"background-color: #3498db;\">",

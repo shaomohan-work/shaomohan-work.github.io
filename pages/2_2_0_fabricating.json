@@ -1,11 +1,19 @@
 {
       "id": "fabricating",
       "nav": false,
-      "title_zh": "设计制作/技术支持",
-      "title_en": "FABRICATING & TECHNICAL SUPPORT",
+      "title_zh": "技术实践/制作支持",
+      "title_en": "TECHNICAL WORK & FABRICATION SUPPORT",
       "content_zh": 
       [
         "<div class=\"photo-grid\">",
+
+        "<div class=\"hover-zoom\" data-text=\"Whose Y2K Body?\" onclick=\"showPage('Y2K')\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_7_Y2K/1.jpg\" alt=\"Whose Y2K Body?\">",
+        "</div>",
+        
+        "<div class=\"hover-zoom\" data-text=\"12冥想屋—盐\" onclick=\"showPage('Salt')\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_8_Salt/4.jpg\" alt=\"12冥想屋—盐\">",
+        "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"回旋\" onclick=\"showPage('Weaving')\">",
         "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_6_Weaving/2.jpg\" alt=\"回旋\">",
@@ -34,6 +42,14 @@
       "content_en": 
       [
         "<div class=\"photo-grid\">",
+
+        "<div class=\"hover-zoom\" data-text=\"Whose Y2K Body?\" onclick=\"showPage('Y2K')\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_7_Y2K/1.jpg\" alt=\"Whose Y2K Body?\">",
+        "</div>",
+        
+        "<div class=\"hover-zoom\" data-text=\"12 Meditation Chambers — Salt\" onclick=\"showPage('Salt')\">",
+        "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_8_Salt/4.jpg\" alt=\"12 Meditation Chambers — Salt\">",
+        "</div>",
 
         "<div class=\"hover-zoom\" data-text=\"Weaving the Dharma Wheel\" onclick=\"showPage('Weaving')\">",
         "<img src=\"resources/2_0_projects/2_2_0_fabricating/2_2_6_Weaving/2.jpg\" alt=\"Weaving the Dharma Wheel\">",

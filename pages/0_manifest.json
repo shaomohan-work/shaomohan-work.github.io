@@ -28,6 +28,8 @@
 
   { "id": "EXHIBITECHS", "nav": false, "file": "2_1_a_EXHIBITECHS.json" },
 
+  { "id": "Salt", "nav": false, "file": "2_2_8_Salt.json" },
+  { "id": "Y2K", "nav": false, "file": "2_2_7_Y2K.json" },
   { "id": "Weaving", "nav": false, "file": "2_2_6_Weaving.json" },
   { "id": "Weaving", "nav": false, "file": "2_2_5_Woven.json" },
   { "id": "Tea", "nav": false, "file": "2_2_4_Tea.json" },
